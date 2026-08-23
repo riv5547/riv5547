@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm tqmg 👋</h1> <p align="center"> <em>Developer passionate about game modding, automation, and C++.</em><br/> <em>Focused on clean code and minimalist aesthetics.</em> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=tqmg&label=Profile%20views&color=0e75b6&style=flat" alt="tqmg" /> </p> <br/>
-🛠️ Technologies & Languages
+Technologies & Languages
 <p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </p> <br/>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=tqmg&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqmg&layout=compact&theme=tokyonight&hide_border=true" /> </p> <br/>
-🌐 Connect with me
+Connect with me
 <p align="center"> <a href="https://discord.com/users/tqmg"> <img src="https://img.shields.io/badge/Discord-tqmg-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p> <br/> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p>
